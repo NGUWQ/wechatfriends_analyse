@@ -23,6 +23,7 @@ pip3 install echarts-countries-pypkg
 
 运行
 运行前请先在程序根目录下建立analyse，data，images文件夹
+
 获取用户信息
 需要将get_user_info.py第70行的NGU，改成随意一个好友的名字或者自己的名字
 
